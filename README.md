@@ -1,5 +1,5 @@
 # git-di
-Shorter command for fancier git diff using `diff-so-fancy`
+Shorter command for fancier `git diff` using [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
 ## Installing
 
